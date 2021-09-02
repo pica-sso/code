@@ -65,19 +65,14 @@ int main(int argc, char**argv)
         	msg1.angular.y=0.0;
         	msg1.angular.z=0.0;
 		if (right > 1)
+			if (left < 1)
 			msg1.linear.x=0.0;
 			msg1.linear.y=0.2; 
 			msg1.linear.z=0.0;
 	    		msg1.angular.x=0.0;
         		msg1.angular.y=0.0;
         		msg1.angular.z=0.0;
-			if (left > 1)
-				msg1.linear.x=0.0;
-				msg1.linear.y=-0.2; 
-				msg1.linear.z=0.0;
-				msg1.angular.x=0.0;
-				msg1.angular.y=0.0;
-				msg1.angular.z=0.3;
+	    		
 		if (left > 1)
 			msg1.linear.x=0.0;
 			msg1.linear.y=-0.2; 
@@ -85,6 +80,7 @@ int main(int argc, char**argv)
 	    		msg1.angular.x=0.0;
         		msg1.angular.y=0.0;
         		msg1.angular.z=0.0;
+	    	
 
 	//msg1.linear.x=1.0;
         //msg1.linear.y=0.0;
