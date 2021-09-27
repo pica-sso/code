@@ -1,7 +1,10 @@
 # code
 
 ﻿Zoom 회의 참가
-https://zoom.us/j/92500627924?pwd=azlVNTE4L2k4enVIUHZGcUI5ZU54QT09
+https://zoom.us/j/93838379884?pwd=eVkrN0lYNThEaUpoV1JKQUlTb2NpQT09
 
-회의 ID: 925 0062 7924
-암호: 5ENww5
+회의 ID: 938 3837 9884
+암호: dJ9Ufm
+
+
+
